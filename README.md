@@ -1,6 +1,6 @@
-<h2 align="center">Hail, sou o Edu a.k.a. Deoli.</h2>
-<h2 align="center">I have been a biochemical pharmacist and business manager for over 10 years. Always curious about statistics, graphs and everything related to data analysis, but not realizing how much I could delve. I was very happy with excel until... Python! 
-I've messed around with javaScript, html, css just for fun - But that was a long, long time ago...</h2>
+<h1 align="center">Hail, sou o Edu a.k.a. Deoli.</h1>
+<h1 align="center">I have been a biochemical pharmacist and business manager for over 10 years. Always curious about statistics, graphs and everything related to data analysis, but not realizing how much I could delve. I was very happy with excel until... Python! 
+I've messed around with javaScript, html, css just for fun - But that was a long, long time ago...</h1>
 
 - 🔭 I am currently delving into PBI, Python and SQL. [Power BI Analyst](https://www.dio.me/)
 
