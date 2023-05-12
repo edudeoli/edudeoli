@@ -12,7 +12,7 @@ I've messed around with javaScript, html, css just for fun - But that was a long
 
 - 📄 And there's something here too: [linkedin.com/in/edu-ojr/](linkedin.com/in/edu-ojr/)
 
-- ⚡ My daughter was asked what I liked best. **She replies: -Music. But I didn't even realize that. It's already part of me.**
+- ⚡ Rock ON!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
