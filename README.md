@@ -2,11 +2,9 @@
 <h4 align="center">I have been a biochemical pharmacist and business manager for over 10 years. Always curious about statistics, graphs and everything related to data analysis, but not realizing how much I could delve. I was very happy with excel until... Python! 
 I've messed around with javaScript, html, css just for fun - But that was a long, long time ago...</h4>
 
-- 🔭 I am currently delving into PBI, Python and SQL. [Power BI Analyst](https://www.dio.me/)
+- 🔭 I am currently delving into Python and SQL.
 
-- 🌱 I’m currently learning **SQL, Python & Machine Learning**
-
-- 💬 Ask me about? **Power BI**
+- 🌱 I’m currently learning **Python**
 
 - 📫 You find me here: **edu.deoli@gmail.com**
 
