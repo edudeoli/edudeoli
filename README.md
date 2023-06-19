@@ -2,9 +2,9 @@
 <h4 align="center">I have been a biochemical pharmacist and business manager for over 10 years. Always curious about statistics, graphs and everything related to data analysis, but not realizing how much I could delve. I was very happy with excel until... Python! 
 I've messed around with javaScript, html, css just for fun - But that was a long, long time ago...</h4>
 
-- 🔭 I am currently delving into Python and SQL.
+- 🔭 I am currently delving into **Python and SQL**.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **data science**
 
 - 📫 You find me here: **edu.deoli@gmail.com**
 
